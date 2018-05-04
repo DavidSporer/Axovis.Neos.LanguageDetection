@@ -15,6 +15,9 @@
     "extra": {
         "neos": {
             "package-key": "Axovis.Neos.LanguageDetection"
-        }
+        },
+        "applied-flow-migrations": [
+            "TYPO3.FLOW3-201201261636"
+        ]
     }
 }
